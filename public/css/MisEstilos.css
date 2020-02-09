@@ -1,0 +1,22 @@
+  <style>
+  div span {
+    display:inline-block;
+    width:250px;
+}
+h2 {
+    font-size:1em;
+}
+input {
+    padding:5px;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+input:focus {
+    outline:0px;
+}
+.ok {
+    border-color:blue;
+}
+</style>
